@@ -4,7 +4,7 @@ ModuleManager
 
 Original (c) from Ialdabaoth ( https://github.com/Ialdabaoth )
 
-Modified by // Modifications by // Maintained by sarbian ( https://github.com/sarbian )
+Modified by // Modifications by  cbase2
 
 
 The original licence requirement was:
